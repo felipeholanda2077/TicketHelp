@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "780726186241",
+    "project_id": "tickethelp-6884b",
+    "storage_bucket": "tickethelp-6884b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780726186241:android:760c5ae24f0fd3bff42b00",
+        "android_client_info": {
+          "package_name": "com.tickethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780726186241-o55oughtduop4ifkolf84uend1hcc27u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOc_ndryBWIj8v1YHJrgqoMdrE3a1fr8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780726186241-o55oughtduop4ifkolf84uend1hcc27u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780726186241-a6g187l23s9ouc2ka8nga66gvmbt2skf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tickethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
